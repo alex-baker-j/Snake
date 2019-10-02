@@ -1,4 +1,4 @@
-This is a verilog project I made along with another student for an electrical engineering class. It is a snake game that uses VGA graphics, and is meant to be run on a nexys3 board. Below is the project report we made for the class.
+This is a verilog project I made along with another student for an electrical engineering class. It is a snake game that uses VGA graphics, and is meant to be run on a nexys3 FPGA board. Below is the project report we made for the class.
 
 EE354L Project Report
 
